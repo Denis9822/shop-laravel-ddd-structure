@@ -18,7 +18,7 @@
             <div class="h-full w-[2px] bg-white/20"></div>
         </li>
         <li>
-            <a href="#" class="inline-block text-white hover:text-white/70 text-xxs md:text-xs font-medium" target="_blank" rel="noopener">Политика конфиденциальности</a>
+            <a href="#" class="inline-block text-white hover:text-white/70 text-xxs md:text-xs font-medium" target="_blank" rel="noopener">Пол1итика конфиденциальности</a>
         </li>
     </ul>
 
